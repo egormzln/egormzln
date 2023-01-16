@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔹️Welcome to my GitHub account!\🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.\🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
+🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 
 ## 🌐 Socials:
