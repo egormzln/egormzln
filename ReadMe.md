@@ -1,5 +1,5 @@
 # About Me:
-🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
+🔹️ Welcome to my GitHub account!<br />🔹️ I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/tw0ch) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/371333543928004639) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tw0ch) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tw0ch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw0ch1) 
