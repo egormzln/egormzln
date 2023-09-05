@@ -1,5 +1,7 @@
 # About Me:
-🔹️ Welcome to my GitHub account!<br />🔹️ I am a Software Engineer with a passion for creating beautiful and functional apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
+🔹️ I am a Software Engineer with a passion for creating beautiful and functional apps.<br />
+🔹️ I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />
+🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tw0ch) 
