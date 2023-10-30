@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw0ch1) 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,fastapi,javascript,html,css,react,java,docker)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,fastapi,react,java,docker)](https://skillicons.dev) 
 
 ## GitHub Stats:
 <p align="left">
