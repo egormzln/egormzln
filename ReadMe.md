@@ -17,7 +17,7 @@
 ## GitHub Stats:
 <p align="left">
 <img src="https://github-readme-stats-git-master-tw0ch.vercel.app/api?username=tw0ch&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats-git-master-tw0ch.vercel.app/api/top-langs/?username=tw0ch&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="170"/>
+<!-- <img src="https://github-readme-stats-git-master-tw0ch.vercel.app/api/top-langs/?username=tw0ch&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="170"/> -->
 </p>
 
 
