@@ -4,15 +4,15 @@
 🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tw0ch) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/egormzln)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/371333543928004639)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tw0ch)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tw0ch)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tw0ch)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw0ch1) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/371333543928004639)
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tw0ch)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw0ch1) -->
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,fastapi,react,java,docker)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,dart,java,flutter,python,firebase,fastapi,docker,mongo,postgres)](https://skillicons.dev)
 
 ## GitHub Stats:
 <p align="left">
