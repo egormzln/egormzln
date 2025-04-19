@@ -5,9 +5,8 @@
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/egormzln)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tw0ch)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tw0ch)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/371333543928004639)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tw0ch](https://www.linkedin.com/in/egor-mizyulin/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egor.mzln)
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tw0ch)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw0ch1) -->
 
