@@ -5,10 +5,7 @@
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/egormzln)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tw0ch](https://www.linkedin.com/in/egor-mizyulin/))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egor.mzln)
-<!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tw0ch)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw0ch1) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-mizyulin)
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,java,python,firebase,fastapi,docker,mongo,postgres)](https://skillicons.dev)
