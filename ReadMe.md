@@ -7,15 +7,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/egormzln)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-mizyulin)
 
-## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,java,python,firebase,fastapi,docker,mongo,postgres)](https://skillicons.dev)
-
-## GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats-git-master-tw0ch.vercel.app/api?username=egormzln&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-</p>
-
-
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
