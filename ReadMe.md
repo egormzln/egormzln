@@ -4,8 +4,8 @@
 🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 ## Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/egormzln)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-mizyulin)
+[Telegram](https://t.me/egormzln)
+[Linkedin](https://www.linkedin.com/in/egor-mizyulin)
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
