@@ -9,6 +9,3 @@
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
----
-[![](https://visitcount.itsvg.in/api?id=tw0ch&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/018b96be-0191-4dae-b032-7686b6d6969c.svg)](https://wakatime.com/@018b96be-0191-4dae-b032-7686b6d6969c)
