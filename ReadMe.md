@@ -1,6 +1,6 @@
 # About Me:
-🔹️ I am a Software Engineer with a passion for creating beautiful and functional apps.<br />
-🔹️ I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />
+🔹️ I am a Software Engineer.<br />
+🔹️ Always looking to improve my skills and expand my knowledge of the latest technology trends.<br />
 🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 ## Socials:
