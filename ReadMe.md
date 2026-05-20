@@ -1,7 +1,7 @@
 # About Me:
-🔹️ I am a Software Engineer.<br />
-🔹️ Always looking to improve my skills and expand my knowledge of the latest technology trends.<br />
-🔹️ Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
+🔹️ I'm a tech enthusiast.
+🔹️ I'm always looking to improve my skills and expand my knowledge of the latest technology trends.
+🔹️ Check out my repositories to see my work and feel free to connect with me to discuss potential collaborations.
 
 ## Socials:
 [Telegram](https://t.me/egormzln)
