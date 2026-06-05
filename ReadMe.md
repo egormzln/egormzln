@@ -5,8 +5,8 @@
 
 ## Socials
 - [Telegram](https://t.me/egormzln)<br/>
-- [X](https://github.com/egormzln)<br/>
 - [Linkedin](https://www.linkedin.com/in/egor-mizyulin)
+- [X](https://github.com/egormzln)<br/>
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
