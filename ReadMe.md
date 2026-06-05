@@ -5,6 +5,7 @@
 
 ## Socials
 - [Telegram](https://t.me/egormzln)<br/>
+- [X](https://github.com/egormzln)<br/>
 - [Linkedin](https://www.linkedin.com/in/egor-mizyulin)
 
 ## Random Dev Quote
