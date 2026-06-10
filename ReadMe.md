@@ -4,9 +4,9 @@
 - Check out my repositories to see my work and feel free to connect with me to discuss potential collaborations.
 
 ## Socials
+- [X](https://github.com/egormzln)<br/>
 - [Telegram](https://t.me/egormzln)<br/>
 - [Linkedin](https://www.linkedin.com/in/egor-mizyulin)
-- [X](https://github.com/egormzln)<br/>
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
